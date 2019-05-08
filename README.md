@@ -10,7 +10,7 @@ We tend to use `Dockerfile` to describe the dependencies and distribute containe
 
 The downside of `Dockerfile` is that it is unable to run natively on non-linux machines, it isn't declarative and build instructions in Dockerfiles are not reusable.
 
-`versadep` strievs to solve the problem by filling the gap between your machine and docker containers.
+`versadep` strievs to solve this problem by filling the gap between your runtime environments, including machines and containers.
 
 That is, `versadep` fetches files and executables in a versioned manner, and generates any configuration files from templates, and it works on operating systems like macOS, Linux and probably Windows.
 
