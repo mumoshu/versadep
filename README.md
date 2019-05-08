@@ -1,6 +1,6 @@
 # versadep
 
-`versadep` is a versatile application dependency manager. It is a tool like `bundler` rather than `gem` for Ruby, but for any sets of files.
+`versadep` is a versatile application dependency manager. It is a tool like `bundler` rather than `gem` in Ruby, but for any sets of files.
 
 ## Rationale
 
