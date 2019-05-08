@@ -135,4 +135,5 @@ Under the hood, `versadep` delegates its jobs to the following tools:
 
 This project has been insipired by awesome projects below! Thanks for all the maintains of these projects.
 
-- https://github.com/davidovich/summon
+- davidovich's [summon](https://github.com/davidovich/summon)
+- geodesic's [deps](https://github.com/cloudposse/geodesic/pull/466)
