@@ -133,3 +133,6 @@ Under the hood, `versadep` delegates its jobs to the following tools:
 
 ## Acknowledgements
 
+This project has been insipired by awesome projects below! Thanks for all the maintains of these projects.
+
+- https://github.com/davidovich/summon
