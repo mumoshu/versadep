@@ -30,7 +30,7 @@ executables:
 - name: github.com/rogpeppe/gohack
   version: v1.0.0
 
-builds:
+templates:
 - source: .genrun/.envrc.gotmpl
   target: .envrc
   datasources:
